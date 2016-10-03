@@ -1,0 +1,128 @@
+  <!-- TESTIMONIAL SECTION START -->
+
+	   <section id="testimonials" class="testimonial section-padding">
+		  <div class="container">
+			<!-- SECTION HEADER -->
+
+			 <div class="fn-section-header">
+				<h2 class="section-title text-center">Testimonials</h2>
+				<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed accumsan venenatis lectus <br>sed sollicitudin. Duis in odio ex. Sed elementum varius enim.</p>
+			 </div>
+			 <!-- / END SECTION HEADER -->
+			 <!-- TESTIMONIALS -->
+
+			 <div class="row">
+				<div class="col-md-12">
+				   <div id="fn-feedbacks" class="owl-carousel owl-theme">
+					  <!-- TESTIMONIAL 1-->
+		
+					  <div class="feedback-box wow rollIn animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+						 <div class="message">
+							
+						 </div>
+						 <div class="client">
+							<div class="client-info">
+							   <a class="client-name" href="#">John Smith</a>
+							   <div class="client-company">
+								  Founder, Great Company
+							   </div>
+							</div>
+							<div class="client-image hidden-xs">
+							   <img src="images/testimonial/testimonial1.jpg" alt="">
+							</div>
+						 </div>
+					  </div>
+					  <!-- TESTIMONIAL 2-->
+				
+					  <div class="feedback-box wow rollIn animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+						 <div class="message">
+							“Aenean nonummy hendrerit mau phasellu porta. Fusce suscipit varius mi sed. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio morbi. Ut viverra mauris justo, quis auctor nisi. Suspendisse sit amet diam diam, eget.”
+						 </div>
+						 <div class="client">
+							<div class="client-info">
+							   <a class="client-name" href="#">Cristina Deo</a>
+							   <div class="client-company">
+								  Project manager, Rft tech
+							   </div>
+							</div>
+							<div class="client-image hidden-xs">
+							   <img src="images/testimonial/testimonial2.jpg" alt="">
+							</div>
+						 </div>
+					  </div>
+					  <!-- TESTIMONIAL 3-->
+					 
+					  <div class="feedback-box wow rollIn animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+						 <div class="message">
+							“Aenean nonummy hendrerit mau phasellu porta. Fusce suscipit varius mi sed. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio morbi. Ut viverra mauris justo, quis auctor nisi. Suspendisse sit amet diam diam, eget.”
+						 </div>
+						 <div class="client">
+							<div class="client-info">
+							   <a class="client-name" href="#">Anton Kovalsky</a>
+							   <div class="client-company">
+								  Manager, Company inc.
+							   </div>
+							</div>
+							<div class="client-image hidden-xs">
+							   <img src="images/testimonial/testimonial3.jpg" alt="">
+							</div>
+						 </div>
+					  </div>
+					  <!-- TESTIMONIAL 4-->
+				
+					  <div class="feedback-box wow rollIn animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+						 <div class="message">
+							“Aenean nonummy hendrerit mau phasellu porta. Fusce suscipit varius mi sed. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio morbi. Ut viverra mauris justo, quis auctor nisi. Suspendisse sit amet diam diam, eget.”
+						 </div>
+						 <div class="client">
+							<div class="client-info">
+							   <a class="client-name" href="#">Adrian Steve</a>
+							   <div class="client-company">
+								  CEO, XYZ Corp inc.
+							   </div>
+							</div>
+							<div class="client-image hidden-xs">
+							   <img src="images/testimonial/testimonial4.jpg" alt="">
+							</div>
+						 </div>
+					  </div>
+					  <!-- TESTIMONIAL 5-->
+					  <div class="feedback-box wow rollIn animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+						 <div class="message">
+							“Aenean nonummy hendrerit mau phasellu porta. Fusce suscipit varius mi sed. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio morbi. Ut viverra mauris justo, quis auctor nisi. Suspendisse sit amet diam diam, eget.”
+						 </div>
+						 <div class="client">
+							<div class="client-info">
+							   <a class="client-name" href="#">David Clyne</a>
+							   <div class="client-company">
+								  Lead developer, Fx IT
+							   </div>
+							</div>
+							<div class="client-image hidden-xs">
+							   <img src="images/testimonial/testimonial5.jpg" alt="">
+							</div>
+						 </div>
+					  </div>
+					  <!-- TESTIMONIAL 6-->
+					  <div class="feedback-box wow rollIn animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+						 <div class="message">
+							“Aenean nonummy hendrerit mau phasellu porta. Fusce suscipit varius mi sed. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio morbi. Ut viverra mauris justo, quis auctor nisi. Suspendisse sit amet diam diam, eget.”
+						 </div>
+						 <div class="client">
+							<div class="client-info">
+							   <a class="client-name" href="#">Keith McCarthy</a>
+							   <div class="client-company">
+								  CEO, Znit rex.
+							   </div>
+							</div>
+							<div class="client-image hidden-xs">
+							   <img src="images/testimonial/testimonial6.jpg" alt="">
+							</div>
+						 </div>
+					  </div>
+				   </div>
+				</div>
+			 </div>
+		  </div>
+	   </section>
+	   <!-- / END TESTIMONIAL SECTION -->
